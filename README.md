@@ -7,7 +7,9 @@
 A real-time computer vision system for measuring O-ring dimensions using YOLOv5 object detection and camera calibration.
 
 <!--![Screenshot](https://cdn.glitch.global/79283f6f-ef1e-4285-822b-eaefe68c462e/orning.jpg?v=1751228266800)-->
-<img src="https://cdn.glitch.global/79283f6f-ef1e-4285-822b-eaefe68c462e/orning.jpg?v=1751228266800" height="1000">
+<div align="center"
+  <img src="https://cdn.glitch.global/79283f6f-ef1e-4285-822b-eaefe68c462e/orning.jpg?v=1751228266800" height="1000">
+</div>
 ## Key Features
 
 - **Precision Measurement**: Detects O-rings with ±0.1mm accuracy after calibration
