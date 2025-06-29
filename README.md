@@ -3,8 +3,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Development-brightgreen)
 
-<!--[![Demo Video](https://img.shields.io/badge/Demo-Video-blue)](https://example.com/demo) 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://yourdeployment.com)-->
+
 
 A real-time computer vision system for measuring O-ring dimensions using YOLOv5 object detection and camera calibration.
 
