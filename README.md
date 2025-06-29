@@ -26,10 +26,4 @@ A real-time computer vision system for measuring O-ring dimensions using YOLOv5 
 | Camera Pipeline         | MediaDevices API                    |
 | Measurement System      | Perspective calibration             |
 
-## Installation
 
-```bash
-git clone https://github.com/yourusername/o-ring-detector.git
-cd o-ring-detector
-npm install
-npm start
