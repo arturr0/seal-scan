@@ -1,7 +1,7 @@
 # O-Ring Size Detection System
 ![Status](https://img.shields.io/badge/Status-Development-brightgreen)
 
-## <a href="https://cipherconnect.onrender.com" target="_blank">https://cipherconnect.onrender.com</a>
+## <a href="https://oring-recognition-vite.onrender.com" target="_blank">https://oring-recognition-vite.onrender.com</a>
 
 
 A real-time computer vision system for measuring O-ring dimensions using YOLOv5 object detection and camera calibration.
