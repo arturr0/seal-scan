@@ -22,7 +22,7 @@ A real-time computer vision system for measuring O-ring dimensions using YOLOv5 
 
 | Component               | Technology                          |
 |-------------------------|-------------------------------------|
-| Frontend                | React, TensorFlow.js                |
+| Frontend                | React                |
 | Computer Vision         | YOLOv5 (custom-trained ONNX model)  |
 | Real-time Processing    | Web Workers, WebGL                 |
 | Camera Pipeline         | MediaDevices API                    |
